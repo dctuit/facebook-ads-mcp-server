@@ -22,7 +22,7 @@ DEFAULT_AD_ACCOUNT_FIELDS = [
 mcp = FastMCP("fb-api-mcp-server")
 
 # Add a global variable to store the token
-FB_ACCESS_TOKEN = None
+FB_ACCESS_TOKEN = 'EAAIulJWAZBAQBRDDDAGww917ka5J0W6SLkZCCvtkmZCzX1ZBgdafDUod5WqZArxw7usaS7jgxPZCBdjruzE7NAIVkjUunQM4ByWOQUmvXZAe61ciLlLgWZCeNpNktIxqoqGZCdkgN11jsAM5gyren2sQqTEwQBv9fJKTYt7BUekURNETjjmzbc8Sw47w8EB5GRgFN9nSWTnggZColhaA5349OJ'
 
 # --- Helper Functions ---
 
